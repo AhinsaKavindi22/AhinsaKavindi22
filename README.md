@@ -40,7 +40,7 @@
 
 </div>
 
-###
+---
 
 <h4 align="center">Tech Stack</h4>
 <p align="center">
