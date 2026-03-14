@@ -6,13 +6,13 @@
 
 <h1 align="center">Hi 👋, I'm Ahinsa Kavindi</h1>
 
-<h4 align="center">Full Stack Software Developer | Passionate IT Graduate</h4>
+<h3 align="center">Full Stack Software Developer | Passionate IT Graduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhinsaKavindi22&label=Profile%20views&color=0e75b6&style=flat" alt="AhinsaKavindi22" />
 </p>
 
----
+###
 
 <table align="center">
 <tr border="none">
