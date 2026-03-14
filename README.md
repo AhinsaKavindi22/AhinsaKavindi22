@@ -40,10 +40,9 @@
 
 </div>
 
----
+###
 
-
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
