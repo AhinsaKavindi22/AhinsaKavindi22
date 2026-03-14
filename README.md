@@ -2,8 +2,6 @@
   <img height="150" src="https://raw.githubusercontent.com/AhinsaKavindi22/AhinsaKavindi22/main/coding_girl.png"  />
 </div>
 
-###
-
 <h1 align="center">Hi 👋, I'm Ahinsa Kavindi</h1>
 
 <h3 align="center">Full Stack Software Developer | Passionate IT Graduate</h3>
