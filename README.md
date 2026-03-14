@@ -18,7 +18,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m working on **SeekaHost™**  as a Software Engineer
+- 🔭 Working as a Software Engineer at **SeekaHost™**
 
 - 🧑‍🎓 I’m a graduate at **University of Moratuwa**
 
