@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/AhinsaKavindi22/AhinsaKavindi22/main/coding_girl.png"  />
+  <img height="140" src="https://raw.githubusercontent.com/AhinsaKavindi22/AhinsaKavindi22/main/coding_girl.png"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahinsa Kavindi</h1>
