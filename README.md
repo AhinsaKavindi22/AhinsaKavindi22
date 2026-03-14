@@ -14,22 +14,28 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="100%">
-        <ul>
-          <li>🔭 I’m currently working on <b>SeekaHost™ as a Software Engineer</b></li>
-          <li>🌱 I’m currently learning Docker</li>
-          <li>🧑‍🎓 I’m a graduate at University of Moratuwa</b></li>
-          <li>📫 How to reach me: <b>ahinsajayakodi24@gmail.com</b></li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="200px">
-      </td>
-    </tr>
-  </table>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🔭 I’m working on **SeekaHost™**  as a Software Engineer
+
+- 🧑‍🎓 I’m a graduate at **University of Moratuwa**
+
+- 🌱 I’m currently learning **Docker**
+  
+- 📫 How to reach me: **ahinsajayakodi24@gmail.com**
+
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  
+  </td>
+</tr>
+</table>
+
 </div>
 
 ---
