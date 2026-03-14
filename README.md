@@ -40,7 +40,8 @@
 
 ---
 
-<h4 align="center">Tech Stack</h4>
+<h3 align="center">Tech Stack</h3>
+
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -70,3 +71,23 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <!-- GitHub Contribution Streak -->
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhinsaKavindi22&theme=radical&hide_border=true" alt="AhinsaKavindi22's Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/anuraghazray/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhinsaKavindi22&layout=compact&theme=radical&hide_border=true" alt="AhinsaKavindi22's Top Languages" />
+  </a>
+</p>
+
+
